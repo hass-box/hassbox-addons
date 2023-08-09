@@ -1,0 +1,8 @@
+---
+configuration:
+  token:
+    name: 密钥Token
+    description: >-
+      先从`HassBox`微信公众号申请外网访问链接，申请成功后会生成对应的密钥Token。
+network:
+  443/tcp: HTTPS (SSL) Port

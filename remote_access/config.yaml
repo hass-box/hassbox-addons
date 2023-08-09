@@ -1,0 +1,24 @@
+---
+name: "外网访问"
+version: "0.0.7"
+slug: remote_access
+description: "随时随地访问Home Assistant"
+hassio_api: true
+url: "https://hass-box.coding.net/public/homeassistant/addons/git/files/master/remote_access"
+arch:
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - i386
+init: false
+map:
+  - ssl:rw
+options:
+  token: null
+ports:
+  443/tcp: 8124
+  80/tcp: null
+schema:
+  token: str
+image: "hassbox/{arch}-remote-access"
