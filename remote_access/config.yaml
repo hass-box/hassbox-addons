@@ -4,7 +4,7 @@ version: "0.0.7"
 slug: remote_access
 description: "随时随地访问Home Assistant"
 hassio_api: true
-url: "https://hass-box.coding.net/public/homeassistant/addons/git/files/master/remote_access"
+url: "https://github.com/hass-box/addon-remote-access"
 arch:
   - armhf
   - armv7
