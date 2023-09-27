@@ -1,6 +1,6 @@
 # Home Assistant Add-on: HassBox 外网访问
 
-可从`HassBox`微信公众号免费申请外网访问链接！
+可从`HassBox全屋智能`微信公众号免费申请外网访问链接！
 
 `原理`：将域名映射到本机 IPv6 地址，本地使用 acme.sh 生成 SSL 证书，结合 NGINX Web 服务器并设置 SSL 代理，从而实现 外网访问 + 本地访问 共存模式。免费的 SSL 证书有效期一般为两个月，插件会在到期前一天自动重新生成新的 SSL 证书。
 

@@ -1,8 +1,8 @@
 ---
 configuration:
   token:
-    name: 密钥Token
+    name: Token密钥
     description: >-
-      先从`HassBox`微信公众号申请外网访问链接，申请成功后会生成对应的密钥Token。
+      先从`HassBox全屋智能`微信公众号申请外网访问链接，申请成功后会生成对应的Token密钥。
 network:
   443/tcp: HTTPS (SSL) Port
