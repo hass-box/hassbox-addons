@@ -1,6 +1,6 @@
 ---
 name: "外网访问"
-version: "0.0.9"
+version: "0.0.10"
 slug: remote_access
 description: "随时随地访问Home Assistant"
 hassio_api: true
