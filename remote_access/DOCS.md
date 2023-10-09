@@ -1,8 +1,8 @@
-# Home Assistant Add-on: HassBox 外网访问
+# Home Assistant Add-on: HassBox 远程访问
 
 ## 申请 Token
 
-先从`HassBox全屋智能`微信公众号申请外网访问链接，申请成功后会生成对应的密钥 Token。
+先从 `HassBox 全屋智能` 微信公众号申请远程访问链接，申请成功后会生成对应的密钥 Token。
 
 ## 使用方式
 
@@ -16,7 +16,7 @@
 - `ssl_key`
 - `server_port`
 
-3. 在配置文件`configuration.yaml`中，添加如下配置： (如果未添加配置，来自外网访问的请求将被阻止)
+3. 在配置文件`configuration.yaml`中，添加如下配置： (如果未添加配置，来自远程访问的请求将被阻止)
 
 ```yaml
 http:

@@ -1,8 +1,8 @@
 ---
-name: "外网访问"
-version: "0.0.10"
+name: "远程访问"
+version: "0.0.11"
 slug: remote_access
-description: "随时随地访问Home Assistant"
+description: "随时随地访问 Home Assistant"
 hassio_api: true
 url: "https://github.com/hass-box/addon-remote-access"
 arch:
