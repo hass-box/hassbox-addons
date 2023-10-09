@@ -1,11 +1,6 @@
-<div align="center">
-    <a href="https://github.com/zigbee2mqtt/hassio-zigbee2mqtt">
-        <img width="400"  src="banner.png">
-    </a>
-    <br>
-    <br>
-    <h1>Home Assistant Add-ons: HassBox</h1>
-</div>
+# Home Assistant Add-ons: HassBox
+
+<img width="400"  src="banner.png">
 
 ## Add-ons provided by this repository
 
