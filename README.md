@@ -1,6 +1,6 @@
-# Home Assistant Add-ons: HassBox
-
 <img width="400"  src="banner.png">
+
+# Home Assistant Add-ons: HassBox
 
 ## Add-ons provided by this repository
 
