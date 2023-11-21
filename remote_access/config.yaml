@@ -1,10 +1,10 @@
 ---
 name: "远程访问"
-version: "0.1.1"
+version: "0.1.2"
 slug: remote_access
-description: "随时随地访问 Home Assistant"
+description: "随时随地访问Home Assistant"
 hassio_api: true
-url: "https://github.com/hass-box/addon-remote-access"
+url: "https://hassbox.cn/service/remote-access/install-remote-access-addon.html"
 arch:
   - armhf
   - armv7
