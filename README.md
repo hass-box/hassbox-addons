@@ -4,4 +4,4 @@
 
 - **[远程访问](/remote_access/README.md)**
 
-  随时随地访问 Home Assistant
+  随时随地访问 Home Assistant，不在家也能轻松控制全屋！
