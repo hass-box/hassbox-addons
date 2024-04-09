@@ -3,6 +3,6 @@ configuration:
   token:
     name: Token 密钥
     description: >-
-      可从 `HassBox 全屋智能` 微信公众号获取。
+      关注 `HassBox 全屋智能` 微信公众号获取。
 network:
   443/tcp: 远程访问端口
