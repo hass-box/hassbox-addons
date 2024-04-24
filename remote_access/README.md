@@ -2,7 +2,7 @@
 
 随时随地访问 Home Assistant，不在家也能轻松控制全屋！
 
-可从 `HassBox 全屋智能` 微信公众号免费申请！
+关注 `HassBox 全屋智能` 微信公众号即可免费获取远程访问地址！
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
