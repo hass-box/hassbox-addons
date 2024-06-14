@@ -21,4 +21,4 @@ ports:
   80/tcp: null
 schema:
   token: str
-image: "hassbox/{arch}-remote-access"
+image: "registry.cn-hangzhou.aliyuncs.com/hassbox/{arch}-remote-access"
